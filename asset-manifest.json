@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/chefsmenu/static/css/main.b8a719ca.css",
+    "main.js": "/chefsmenu/static/js/main.3e05819c.js",
+    "static/media/tomate.png": "/chefsmenu/static/media/tomate.aa0745f82393b0e8776d.png",
+    "static/media/cheflogo.svg": "/chefsmenu/static/media/cheflogo.b497edbdd595e9661b22f463de7d3dd4.svg",
+    "static/media/logo.svg": "/chefsmenu/static/media/logo.27b1460d21334b39ad316248014058a3.svg",
+    "static/media/profileIcon.svg": "/chefsmenu/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/searchIcon.svg": "/chefsmenu/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/mealIcon.svg": "/chefsmenu/static/media/mealIcon.dc2624d8f1a24b0c7d18bd1e321cc63b.svg",
+    "static/media/slick.svg": "/chefsmenu/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/chefsmenu/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/chefsmenu/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/chefsmenu/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/shareIcon.svg": "/chefsmenu/static/media/shareIcon.9bae4e0c4a08a9922c2840c550e356b6.svg",
+    "static/media/favorite.svg": "/chefsmenu/static/media/favorite.ae578fcead5ed77168d22dd58ce3e88e.svg",
+    "static/media/whiteHeartIcon.svg": "/chefsmenu/static/media/whiteHeartIcon.5eae3966ef9123b9c465ea84c698d1f2.svg",
+    "static/media/Perfil.svg": "/chefsmenu/static/media/Perfil.5844742540642b2e5abd208a3fe6f615.svg",
+    "static/media/Group.svg": "/chefsmenu/static/media/Group.086f2f0962248ce1615f8f772fd128ce.svg",
+    "index.html": "/chefsmenu/index.html",
+    "static/media/logout.svg": "/chefsmenu/static/media/logout.ce2cc3cc96ad65cba42bd616e87ac599.svg",
+    "static/media/drinkIcon.svg": "/chefsmenu/static/media/drinkIcon.05d1a08c283b2667ba08a4df48ed0c17.svg",
+    "static/media/blackHeartIcon.svg": "/chefsmenu/static/media/blackHeartIcon.4530be5d251e61b9996c864249f2cdf4.svg",
+    "main.b8a719ca.css.map": "/chefsmenu/static/css/main.b8a719ca.css.map",
+    "main.3e05819c.js.map": "/chefsmenu/static/js/main.3e05819c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a719ca.css",
+    "static/js/main.3e05819c.js"
+  ]
+}
