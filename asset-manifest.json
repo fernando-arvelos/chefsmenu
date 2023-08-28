@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chefsmenu/static/css/main.b8a719ca.css",
-    "main.js": "/chefsmenu/static/js/main.3e05819c.js",
+    "main.js": "/chefsmenu/static/js/main.6c5c5823.js",
     "static/media/tomate.png": "/chefsmenu/static/media/tomate.aa0745f82393b0e8776d.png",
     "static/media/cheflogo.svg": "/chefsmenu/static/media/cheflogo.b497edbdd595e9661b22f463de7d3dd4.svg",
     "static/media/logo.svg": "/chefsmenu/static/media/logo.27b1460d21334b39ad316248014058a3.svg",
@@ -22,10 +22,10 @@
     "static/media/drinkIcon.svg": "/chefsmenu/static/media/drinkIcon.05d1a08c283b2667ba08a4df48ed0c17.svg",
     "static/media/blackHeartIcon.svg": "/chefsmenu/static/media/blackHeartIcon.4530be5d251e61b9996c864249f2cdf4.svg",
     "main.b8a719ca.css.map": "/chefsmenu/static/css/main.b8a719ca.css.map",
-    "main.3e05819c.js.map": "/chefsmenu/static/js/main.3e05819c.js.map"
+    "main.6c5c5823.js.map": "/chefsmenu/static/js/main.6c5c5823.js.map"
   },
   "entrypoints": [
     "static/css/main.b8a719ca.css",
-    "static/js/main.3e05819c.js"
+    "static/js/main.6c5c5823.js"
   ]
 }
