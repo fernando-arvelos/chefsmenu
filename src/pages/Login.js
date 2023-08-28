@@ -102,11 +102,9 @@ function Login() {
       </main>
     );
   }
-
   if (user) {
-    return (
-      localStorage.setItem('user', JSON.stringify({ email }))(history.push('/meals'))
-    );
+    localStorage.setItem('user', JSON.stringify({ email }));
+    history.push('/meals');
   }
 
   const numberPass = 6;

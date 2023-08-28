@@ -102,6 +102,8 @@ function Register() {
     );
   }
 
+  const numberPass = 6;
+
   return (
     <main className="flex flex-col items-center h-screen bg-img">
 
@@ -141,6 +143,7 @@ function Register() {
           <button
             type="submit"
             className="button-login bg-yellow"
+            disabled={ password.length <= numberPass }
             onClick={ handleRegister }
           >
             Cadastrar
