@@ -43,7 +43,7 @@ function Register() {
               Erro:
               {error.message}
             </p>
-            <Link to="/">Voltar para Login</Link>
+            <Link to="/">Sign in again</Link>
           </div>
         </div>
       </main>
@@ -91,12 +91,12 @@ function Register() {
 
         <div className="login-container">
           <p>
-            Usuário registrado com sucesso!:
+            User registered successfully!:
             <br />
             {user.user.email}
           </p>
 
-          <Link to="/">Acesse sua conta aqui!</Link>
+          <Link to="/">Access your account here!</Link>
         </div>
       </main>
     );
@@ -128,14 +128,14 @@ function Register() {
         <form className="flex flex-col">
           <input
             type="email"
-            placeholder="Digite seu Email"
+            placeholder="Enter your email address"
             className="input-login"
             onChange={ (e) => setEmail(e.target.value) }
           />
 
           <input
             type="password"
-            placeholder="Digite uma Senha"
+            placeholder="Enter your password"
             className="input-login my-2"
             onChange={ (e) => setPassword(e.target.value) }
           />
@@ -146,10 +146,10 @@ function Register() {
             disabled={ password.length <= numberPass }
             onClick={ handleRegister }
           >
-            Cadastrar
+            Register
           </button>
-          <p>Você já tem uma conta?</p>
-          <Link to="/">Acesse sua conta aqui</Link>
+          <p>Do you already have an account?</p>
+          <Link to="/">Access your account here</Link>
         </form>
       </div>
     </main>
